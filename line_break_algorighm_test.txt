@@ -1,0 +1,1 @@
+Hello! This is a test of the line break program. It uses a thing called badness, the space after a line, and minimizes the badness of the paragraph, which is the sum of the badnesses of the lines squared. It even hyphenates the really long words like antidisestablishmentarianism. Cool.
