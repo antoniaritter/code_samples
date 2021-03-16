@@ -3,11 +3,14 @@ Antonia Ritter
 
 ***
 
-https://github.com/antoniaritter/cs257/tree/main/webapp (Mar 2021)
+github.com/antoniaritter/cs257/tree/main/webapp (Mar 2021)
 - A full-stack web application 
 - A final project for a "Software Design" class at Carleton College, with a partner
 - Includes SQL database and schema, API (Python), HTML, Javascript, and CSS files
-- Work was split evenly but a few examples which are primarily my work are data/convert.py, api.py, and static/graph.js
+- Work was split evenly but a few examples which are primarily my work are 
+  - github.com/antoniaritter/cs257/blob/main/webapp/data/convert.py (data conversion in Python)
+  - github.com/antoniaritter/cs257/blob/main/webapp/api.py (an API in Python)
+  - github.com/antoniaritter/cs257/blob/main/webapp/static/graph.js (Javascript functions making HTML tables and graphs)
 
 ***
 
