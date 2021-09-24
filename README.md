@@ -32,3 +32,4 @@ decision_tree.ipynb (Dec 2020)
 - A decision tree coded in Python from scratch, using training and testing data from the Current Population Survey to try to predict employment, childbirth, or marital status 
 - Part of a project for a "Computational Analysis of Big Data" class at DIS Copenhagen 
 - Relies on decision_tree_cps3_reshape.csv
+
